@@ -34,7 +34,7 @@ SQL Server provides functions to encrypt and decrypt data using a certificate, a
   
 |||  
 |-|-|  
-|[SQL Server Encryption](http://msdn.microsoft.com/library/bb510663.aspx) in SQL Server Books Online|Provides an overview of encryption in SQL Serve. This topic includes links to additional topics and how-to's.|  
+|[SQL Server Encryption](http://msdn.microsoft.com/library/bb510663.aspx) in SQL Server Books Online|Provides an overview of encryption in SQL Server. This topic includes links to additional topics and how-to's.|  
 |[Encryption Hierarchy](http://msdn.microsoft.com/library/ms189586.aspx) and [Encryption How-to Topics](http://msdn.microsoft.com/library/aa337557.aspx) in SQL Server Books Online|Provides an overview of encryption in SQL Server. This topic provides links to additional topics and how-to's.|  
   
 ## See Also  
